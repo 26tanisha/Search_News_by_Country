@@ -59,4 +59,3 @@ A simple and responsive **News Search Web Application** that allows users to fet
 * Improve UI with animations
 * Add pagination for more news results
 
-⭐ If you like this project, feel free to star the repository!
